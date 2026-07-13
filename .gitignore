@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build artifacts (hatchling)
+/src/build/
+/src/dist/
+*.egg-info/
